@@ -69,6 +69,10 @@ nav ul li a:hover {
   margin-bottom: 12px;
   font-family: 'Montserrat', Arial, sans-serif;
 }
+.hero h1 .green-highlight {
+  color: #43a047; /* eco-friendly green */
+  font-weight: bold;
+}
 .hero p {
   font-size: 1.1em;
   font-family: 'Roboto', Arial, sans-serif;
