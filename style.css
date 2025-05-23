@@ -87,7 +87,7 @@ nav ul li a:hover {
   font-family: 'Montserrat', Arial, sans-serif;
 }
 .cards {
-  display: block; /* stacked by default for mobile */
+  display: block; /* Stacked vertically by default for mobile */
 }
 .card {
   background: white;
@@ -156,7 +156,7 @@ footer {
     gap: 24px;
   }
   .cards {
-    display: flex;
+    display: flex; /* Align cards horizontally on desktop */
     justify-content: center;
     gap: 24px;
   }
