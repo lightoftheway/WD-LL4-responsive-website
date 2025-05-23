@@ -152,6 +152,12 @@ footer {
   font-family: 'Roboto', Arial, sans-serif;
 }
 
+/* Green Highlight Class */
+.green-highlight {
+  color: #43a047 !important; /* eco-friendly green, force override if needed */
+  font-weight: bold;
+}
+
 /* Responsive Design: For screens 600px and wider */
 @media (min-width: 600px) {
   nav ul {
